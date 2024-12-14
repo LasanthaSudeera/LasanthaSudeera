@@ -40,8 +40,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** turned **fr
 ---
 
 ## 📫 Let's Connect
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lasantha-sudeera)
 ---
 
 ### Fun Facts
@@ -53,9 +52,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** turned **fr
 
 Feel free to explore my repositories and drop a star ⭐ if you find something interesting! Let's collaborate and build something amazing together. 🚀
 
-
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LasanthaSudeera&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LasanthaSudeera&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
-
