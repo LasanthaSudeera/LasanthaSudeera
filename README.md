@@ -33,26 +33,17 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** turned **fr
 
 ---
 
-## 📈 Current Personal Projects
-- 🌊 **Forex Trading Bot**: Automating Forex strategies using AI and ML.
-- 🌌 **Portfolio Website**: A 3D exploration of my skills and projects.
-
----
-
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lasantha-sudeera) [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://lasantha.dev)
 ---
 
-### Fun Facts
-- 🎮 I love gamifying experiences—like my upcoming BabylonJS portfolio.
-- 🖥️ I recently upgraded to an **ASUS Vivobook S 14** with an AMD Ryzen AI processor to power my projects.
-- 🎥 Installed a projector setup for work and entertainment.
-
----
-
-Feel free to explore my repositories and drop a star ⭐ if you find something interesting! Let's collaborate and build something amazing together. 🚀
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LasanthaSudeera&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LasanthaSudeera&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
+
+---
+
+Feel free to explore my repositories and drop a star ⭐ if you find something interesting! Let's collaborate and build something amazing together. 🚀
+
