@@ -35,8 +35,6 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** turned **fr
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lasantha-sudeera) [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://lasantha.dev)
----
-
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LasanthaSudeera&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
